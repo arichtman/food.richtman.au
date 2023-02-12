@@ -1,9 +1,9 @@
 [build]
-  command = "hugo"
-  publish = "public"
+command = "hugo"
+publish = "public"
 
 [build.environment]
-HUGO_VERSION = "0.104.1"
+HUGO_VERSION = "0.110.0"
 TZ = "Australia/Brisbane
 
 [context.production.environment]
