@@ -1,0 +1,99 @@
+# -- Theme Options --
+# These options control how the theme functions and allow you to
+# customise the display of your website.
+#
+# Refer to the theme docs for more details about each of these parameters.
+# https://blowfish.page/docs/configuration/#theme-parameters
+
+colorScheme = "neon"
+defaultAppearance = "dark"
+autoSwitchAppearance = true
+logo = "discord-avatar-128-ZTHXC.gif"
+
+enableSearch = true
+enableCodeCopy = true
+
+mainSections = ["posts"]
+
+showViews = false
+showLikes = false
+
+disableImageOptimization = false
+
+defaultBackgroundImage = "/img/bg.jpg"
+
+highlightCurrentMenuArea = true
+smartTOC = true
+smartTOCHideUnfocusedChildren = true
+
+[header]
+  layout = "basic" # valid options: basic, fixed
+
+[footer]
+  showMenu = false
+  showCopyright = true
+  showThemeAttribution = true
+  showAppearanceSwitcher = true
+  showScrollToTop = true
+
+[homepage]
+  layout = "card" # valid options: page, profile, hero, card, background, custom
+  # homepageImage = "/img/iceland.jpg" # used in: hero, and card
+  showRecent = true
+  showRecentItems = 10
+  showMoreLink = true
+  showMoreLinkDest = "posts"
+  cardView = true
+  cardViewScreenWidth = true
+
+[article]
+  showDate = true
+  showViews = false
+  showLikes = false
+  showDateUpdated = true
+  showAuthor = false
+  showHero = true
+  heroStyle = "background"
+  layoutBackgroundBlur = true # only used when heroStyle equals background
+  showDraftLabel = true
+  layoutBackgroundHeaderSpace = false
+  showHeadingAnchors = false
+  showPagination = true
+  invertPagination = true
+  showReadingTime = false
+  showTaxonomies = true
+  showSummary = true
+
+[list]
+  layoutBackgroundHeaderSpace = false
+  showSummary = true
+  showCards = true
+  groupByYear = false
+  cardView = true
+  cardViewScreenWidth = true
+  constrainItemsWidth = true
+
+# TODO: visit this
+[sitemap]
+  excludedKinds = ["taxonomy","term"]
+
+# TODO: Tune this once taxonomies are working
+[taxonomy]
+  showHero = true
+  heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
+  showBreadcrumbs = false
+  showViews = true
+  showLikes = true
+  showTableOfContents = true
+  cardView = false
+
+[term]
+  showHero = true
+  heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
+  showBreadcrumbs = false
+  showViews = true
+  showLikes = true
+  showTableOfContents = true
+  groupByYear = false
+  cardView = true
+  cardViewScreenWidth = false

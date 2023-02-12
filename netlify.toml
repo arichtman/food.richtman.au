@@ -1,0 +1,10 @@
+[build]
+  command = "hugo"
+  publish = "public"
+
+[build.environment]
+HUGO_VERSION = "0.104.1"
+TZ = "Australia/Brisbane
+
+[context.production.environment]
+HUGO_ENV = "production"

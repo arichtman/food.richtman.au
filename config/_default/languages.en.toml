@@ -1,0 +1,22 @@
+languageName = "English"
+displayName = "EN"
+isoCode = "en-AU"
+weight = 1
+rtl = false
+
+title = "Richtman's Food Blog"
+logo = "discord-avatar-512-9O706-modified.png"
+description = "My little corner"
+copyright = "GPL-3.0-only"
+
+dateFormat = "2 January 2006"
+
+[author]
+  name = "en author name"
+  image = "img/discord-avatar-128-ZTDHXC.gif"
+  headline = "en author headline"
+  bio = "This is my bio"
+  links = [
+    { mastodon = "https://mastodon.online/@arichtman" },
+    { github = "https://github.com/arichtman" },
+  ]
