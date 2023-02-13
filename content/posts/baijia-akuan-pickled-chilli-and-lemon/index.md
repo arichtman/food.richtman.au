@@ -1,11 +1,11 @@
 +++
-title = "Hi Akuan Pickled Chilli and Lemon"
+title = "Baijia Akuan Pickled Chilli and Lemon"
 date = 2023-02-11
 summary = "Piquante, sweet heat"
 [taxonomies]
 categories = [ "Noodles" ]
 rating = 5
-manufacturer = "Hi Akuan"
+manufacturer = "Baijia Akuan"
 line = "N/A"
 [extra]
 upc = 6926410329019

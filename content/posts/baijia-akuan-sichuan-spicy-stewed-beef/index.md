@@ -1,11 +1,11 @@
 +++
-title = "Sichuan Baijia Sichuan Spicy Stewed Beef Noodle Soup"
+title = "Baijia Akuan Sichuan Spicy Stewed Beef Noodle Soup"
 date = "2023-01-29"
 summary = "An excellent base"
 [taxonomies]
 categories = [ "Noodles" ]
 rating = 4
-manufacturer = "Sichuan Baijia"
+manufacturer = "Baijia Akuan"
 line = "Noodle Soup"
 [extra]
 upc = 6926410328128

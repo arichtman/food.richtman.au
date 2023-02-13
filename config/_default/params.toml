@@ -41,8 +41,6 @@ smartTOCHideUnfocusedChildren = true
   # homepageImage = "/img/iceland.jpg" # used in: hero, and card
   showRecent = true
   showRecentItems = 10
-  showMoreLink = true
-  showMoreLinkDest = "posts"
   cardView = true
   cardViewScreenWidth = true
 
@@ -50,6 +48,7 @@ smartTOCHideUnfocusedChildren = true
   showDate = true
   showViews = false
   showLikes = false
+  showWordCount = false
   showDateUpdated = true
   showAuthor = false
   showHero = true
