@@ -73,18 +73,14 @@ smartTOCHideUnfocusedChildren = true
   constrainItemsWidth = true
 
 # TODO: visit this
-[sitemap]
-  excludedKinds = ["taxonomy","term"]
+#[sitemap]
+#  excludedKinds = ["taxonomy","term"]
 
 # TODO: Tune this once taxonomies are working
 [taxonomy]
   showHero = true
   heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
-  showBreadcrumbs = false
-  showViews = true
-  showLikes = true
-  showTableOfContents = true
-  cardView = false
+  cardView = true
 
 [term]
   showHero = true

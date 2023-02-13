@@ -1,7 +1,6 @@
-categories = "categories"
 
-ratings = "rating"
-
-manufacturers = "manufacturer"
-
-lines = "line"
+[taxonomies]
+category = "categories"
+rating = "ratings"
+manufacturer = "manufacturers"
+line = "lines"
