@@ -12,8 +12,6 @@ upc = "8998866202770"
 variety = "Salero Padang"
 +++
 
-![noodle packet](feature-8998866202770.png)
-
 Rating: 2
 
 Noodles were very standard.

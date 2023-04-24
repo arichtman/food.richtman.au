@@ -12,8 +12,6 @@ upc = "089686011692"
 variety = "Soto Banjar Limau"
 +++
 
-![noodle packet](feature-089686011692.png)
-
 Rating: 3
 
 Noodles standard.

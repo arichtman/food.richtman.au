@@ -12,8 +12,6 @@ upc = "8995899211540"
 variety = "Ramen Pedas"
 +++
 
-![noodle packet](feature-8995899211540.png)
-
 Rating: 4
 
 The noodles were average.

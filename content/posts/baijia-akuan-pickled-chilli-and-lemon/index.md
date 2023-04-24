@@ -12,8 +12,6 @@ upc = 6926410329019
 variety = "Pickled Chilli and Lemon"
 +++
 
-![noodle packet](feature-6926410329019.jpg)
-
 Rating: 5
 
 Cooked according to packet directions.

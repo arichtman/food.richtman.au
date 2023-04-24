@@ -12,8 +12,6 @@ upc = 6926410329477
 variety = "Spicy Braised Beef"
 +++
 
-![noodle packet](feature-6926410329477.png)
-
 Rating: 2
 
 Certainly the poorer of the two of this line I've tried.

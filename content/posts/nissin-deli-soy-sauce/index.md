@@ -12,8 +12,6 @@ upc = 4902105901915
 variety = "Soy sauce"
 +++
 
-![noodle packet](feature-4902105901915.png)
-
 Rating: 2
 
 A let down compared to the miso variety.

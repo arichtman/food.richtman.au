@@ -12,8 +12,6 @@ upc = 6922984202246
 variety = "Red Oil"
 +++
 
-![noodle packet](feature-6922984202246.jpg)
-
 Rating: 2
 
 I observed package directions by steeping in ~500ml hot water for 6 minutes.

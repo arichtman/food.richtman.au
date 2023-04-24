@@ -12,8 +12,6 @@ upc = "8993175555043"
 variety = "Ramen Keju Pedas"
 +++
 
-![noodle packet](feature-8993175555043.png)
-
 Rating: 4
 
 I cooked it dry so it was quite intense.

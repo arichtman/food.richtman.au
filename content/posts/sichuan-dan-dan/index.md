@@ -12,8 +12,6 @@ upc = 6972606953377
 variety = "Sichuan Dan Dan"
 +++
 
-![noodle packet](feature-6972606953377.jpg)
-
 Rating: 3
 
 Noodles are wheat noodles but fat and wide.

@@ -12,8 +12,6 @@ upc = "8993175554633"
 variety = "Mi Goreng Keju Pedas"
 +++
 
-![noodle packet](feature-8993175554633.png)
-
 Rating: 2
 
 The hot oil emulsified nicely.

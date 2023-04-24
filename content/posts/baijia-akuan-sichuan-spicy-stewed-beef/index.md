@@ -12,8 +12,6 @@ upc = 6926410328128
 variety = "Spicy Stewed Beef"
 +++
 
-![noodle packet](feature-6926410328128.png)
-
 Rating: 4
 
 An excellent base for meals.

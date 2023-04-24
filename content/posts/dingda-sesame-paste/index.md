@@ -12,8 +12,6 @@ upc = 6922984202253
 variety = "Sesame Paste"
 +++
 
-![noodle packet](feature-6922984202253.jpg)
-
 Rating: 1
 
 My noodles were broken up when opened, though this could be down to shipping.

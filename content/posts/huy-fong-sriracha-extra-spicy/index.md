@@ -12,8 +12,6 @@ upc = "07870707105436"
 variety = "Extra Spicy"
 +++
 
-![noodle packet](feature-07870707105436.png)
-
 Rating: 4
 
 Decent kick of heat that actually builds quite high.
