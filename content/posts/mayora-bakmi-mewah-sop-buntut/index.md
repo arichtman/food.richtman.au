@@ -2,6 +2,7 @@
 title = "Mayora Bakmi Mewah Sop Buntut"
 date = "2023-04-28"
 summary = "Now this is podracing"
+draft = false
 [taxonomies]
 categories = [ "Noodles" ]
 rating = 5
