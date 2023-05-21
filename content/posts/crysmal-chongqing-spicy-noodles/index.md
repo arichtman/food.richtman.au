@@ -1,7 +1,7 @@
 +++
 title = "Crysmal Chonqging Spicy Noodles"
 date = "2023-05-09"
-summary = ""
+summary = "Mildly whelming"
 draft = false
 [taxonomies]
 categories = [ "Noodles" ]
