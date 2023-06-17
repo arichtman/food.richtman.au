@@ -19,5 +19,13 @@ summaryLength = 0
 #  filename = 'sitemap.xml'
 #  priority = 0.5
 
+#  https://www.getzola.org/documentation/content/taxonomies/
+# taxonomies = [
+#   { name = "categories", feed = true },
+#   { name = "rating", feed = true },
+#   { name = "manufacturer", feed = true },
+#   { name = "line", feed = true },
+# ]
+
 [outputs]
   home = ["HTML", "RSS", "JSON"]
