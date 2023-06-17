@@ -1,5 +1,5 @@
 +++
-title = "Nissin deli soy sauce"
+title = "Nissin Deli Backfat Soy"
 date = 2023-01-22
 summary = "Disappointingly plain"
 [taxonomies]
