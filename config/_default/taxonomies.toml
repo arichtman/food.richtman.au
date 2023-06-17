@@ -1,10 +1,6 @@
 
-# https://github.com/getzola/zola/issues/2226
-# [[taxonomies]]
-# categories = "categories"
-# [[taxonomies]]
-# ratings = "rating"
-# [[taxonomies]]
-# manufacturers = "manufacturer"
-# [[taxonomies]]
-# lines = "line"
+[taxonomies]
+category = "categories"
+rating = "ratings"
+manufacturer = "manufacturers"
+line = "lines"
