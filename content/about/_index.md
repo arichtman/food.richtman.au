@@ -14,7 +14,7 @@ date: 2022-06-13T20:55:37+01:00
 ## Feedback
 
 If you have any leads on better photos or mistakes please
-[lodge an issue](https://github.com/arichtman/food.richtman.com.au/issues/new/choose).
+[lodge an issue](https://github.com/arichtman/food.richtman.au/issues/new/choose).
 
 ## Cooking
 

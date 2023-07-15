@@ -1,4 +1,4 @@
-# food.richtman.com.au
+# food.richtman.au
 
 Personal food blog
 

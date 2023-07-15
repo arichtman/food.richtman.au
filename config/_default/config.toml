@@ -1,4 +1,4 @@
-baseURL = 'https://food.richtman.com.au/'
+baseURL = 'https://food.richtman.au/'
 languageCode = "en"
 
 theme = "blowfish"

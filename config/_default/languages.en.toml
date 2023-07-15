@@ -17,6 +17,6 @@ dateFormat = "2 January 2006"
   headline = "en author headline"
   bio = "This is my bio"
   links = [
-    { mastodon = "https://mastodon.online/@arichtman" },
+    { mastodon = "https://eigenmagic.net/@arichtman" },
     { github = "https://github.com/arichtman" },
   ]
