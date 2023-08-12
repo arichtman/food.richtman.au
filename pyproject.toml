@@ -14,9 +14,9 @@ python = "^3.10"
 pre-commit = "^3"
 
 [tool.pymarkdown]
-first-line-heading.enabled = false
-line-length.code_block_line_length = 400
-line-length.line_length = 80
+plugins.first-line-heading.enabled = false
+plugins.line-length.code_block_line_length = 400
+plugins.line-length.line_length = 80
 
 [build-system]
 requires = ["poetry-core"]
