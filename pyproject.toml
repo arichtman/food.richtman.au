@@ -1,0 +1,23 @@
+[tool.poetry]
+name = "food-richtman-au"
+version = "0.1.0"
+description = "developer tooling for my website"
+authors = ["Richtman, Ariel <10679234+arichtman@users.noreply.github.com>"]
+license = "GPL-3.0-only"
+readme = "README.md"
+packages = [{include = "food"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+
+[tool.poetry.group.dev.dependencies]
+pre-commit = "^3"
+
+[tool.pymarkdown]
+first-line-heading.enabled = false
+line-length.code_block_line_length = 400
+line-length.line_length = 80
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

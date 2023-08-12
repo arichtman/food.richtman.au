@@ -1,21 +1,5 @@
 {
   "nodes": {
-    "flake-compat": {
-      "flake": false,
-      "locked": {
-        "lastModified": 1673956053,
-        "narHash": "sha256-4gtG9iQuiKITOjNQQeQIpoIB6b16fm+504Ch3sNKLd8=",
-        "owner": "edolstra",
-        "repo": "flake-compat",
-        "rev": "35bb57c0c8d8b62bbfd284272c928ceb64ddbde9",
-        "type": "github"
-      },
-      "original": {
-        "owner": "edolstra",
-        "repo": "flake-compat",
-        "type": "github"
-      }
-    },
     "flake-utils": {
       "inputs": {
         "systems": "systems"
@@ -34,24 +18,21 @@
         "type": "github"
       }
     },
-    "gitignore": {
+    "flake-utils_2": {
       "inputs": {
-        "nixpkgs": [
-          "pre-commit-hooks",
-          "nixpkgs"
-        ]
+        "systems": "systems_2"
       },
       "locked": {
-        "lastModified": 1660459072,
-        "narHash": "sha256-8DFJjXG8zqoONA1vXtgeKXy68KdJL5UaXR8NtVMUbx8=",
-        "owner": "hercules-ci",
-        "repo": "gitignore.nix",
-        "rev": "a20de23b925fd8264fd7fad6454652e142fd7f73",
+        "lastModified": 1685518550,
+        "narHash": "sha256-o2d0KcvaXzTrPRIo0kOLV0/QXHhDQ5DTi+OxcjO8xqY=",
+        "owner": "numtide",
+        "repo": "flake-utils",
+        "rev": "a1720a10a6cfe8234c0e93907ffe81be440f4cef",
         "type": "github"
       },
       "original": {
-        "owner": "hercules-ci",
-        "repo": "gitignore.nix",
+        "owner": "numtide",
+        "repo": "flake-utils",
         "type": "github"
       }
     },
@@ -71,51 +52,45 @@
         "type": "github"
       }
     },
-    "nixpkgs-stable": {
+    "nixpkgs_2": {
       "locked": {
-        "lastModified": 1685801374,
-        "narHash": "sha256-otaSUoFEMM+LjBI1XL/xGB5ao6IwnZOXc47qhIgJe8U=",
+        "lastModified": 1686990415,
+        "narHash": "sha256-hYlLuS2Y4O2xsekYate9XnNd2xl5cT71Zkb9AcJqJSA=",
         "owner": "NixOS",
         "repo": "nixpkgs",
-        "rev": "c37ca420157f4abc31e26f436c1145f8951ff373",
+        "rev": "7096fc814bc533148bbf4e6df970c7470850d8de",
         "type": "github"
       },
       "original": {
         "owner": "NixOS",
-        "ref": "nixos-23.05",
         "repo": "nixpkgs",
         "type": "github"
       }
     },
-    "pre-commit-hooks": {
+    "poetry2nix": {
       "inputs": {
-        "flake-compat": "flake-compat",
-        "flake-utils": "flake-utils",
-        "gitignore": "gitignore",
-        "nixpkgs": [
-          "nixpkgs"
-        ],
-        "nixpkgs-stable": "nixpkgs-stable"
+        "flake-utils": "flake-utils_2",
+        "nixpkgs": "nixpkgs_2"
       },
       "locked": {
-        "lastModified": 1686668298,
-        "narHash": "sha256-AADh9NqHh6X2LOem4BvI7oCkMm+JPCSCE7iIw5nn0VA=",
-        "owner": "cachix",
-        "repo": "pre-commit-hooks.nix",
-        "rev": "5b6b54d3f722aa95cbf4ddbe35390a0af8c0015a",
+        "lastModified": 1686970505,
+        "narHash": "sha256-s3gtsusfeIoMYy0BTXXfoDq1IeDj8rPl4JMcR97H9XU=",
+        "owner": "nix-community",
+        "repo": "poetry2nix",
+        "rev": "95d3cbc56d21917abace0cc1de10997469eb80b4",
         "type": "github"
       },
       "original": {
-        "owner": "cachix",
-        "repo": "pre-commit-hooks.nix",
+        "owner": "nix-community",
+        "repo": "poetry2nix",
         "type": "github"
       }
     },
     "root": {
       "inputs": {
+        "flake-utils": "flake-utils",
         "nixpkgs": "nixpkgs",
-        "pre-commit-hooks": "pre-commit-hooks",
-        "utils": "utils"
+        "poetry2nix": "poetry2nix"
       }
     },
     "systems": {
@@ -145,24 +120,6 @@
       "original": {
         "owner": "nix-systems",
         "repo": "default",
-        "type": "github"
-      }
-    },
-    "utils": {
-      "inputs": {
-        "systems": "systems_2"
-      },
-      "locked": {
-        "lastModified": 1685518550,
-        "narHash": "sha256-o2d0KcvaXzTrPRIo0kOLV0/QXHhDQ5DTi+OxcjO8xqY=",
-        "owner": "numtide",
-        "repo": "flake-utils",
-        "rev": "a1720a10a6cfe8234c0e93907ffe81be440f4cef",
-        "type": "github"
-      },
-      "original": {
-        "owner": "numtide",
-        "repo": "flake-utils",
         "type": "github"
       }
     }
