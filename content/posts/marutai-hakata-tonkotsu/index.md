@@ -9,7 +9,7 @@ manufacturer = "Marutai"
 line = "Ramen"
 [extra]
 upc = "4902702001216"
-variety = "Hokkaido Hakata Tonkotsu"
+variety = "Hakata Tonkotsu"
 +++
 
 Rating: 4
