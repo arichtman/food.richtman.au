@@ -1,6 +1,6 @@
 +++
 title = "Marutai Sagagyu Salt"
-date = "2023-08-5"
+date = "2023-08-05"
 summary = "Thick socks"
 [taxonomies]
 categories = [ "Noodles" ]
