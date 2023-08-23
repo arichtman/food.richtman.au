@@ -1,7 +1,7 @@
 +++
 title = "Shangui Sour and Spicy Ramen"
 date = "2023-08-20"
-summary = "Thick socks"
+summary = "Box-ticker winner"
 [taxonomies]
 categories = [ "Noodles" ]
 rating = 5

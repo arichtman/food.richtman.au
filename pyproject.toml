@@ -15,8 +15,7 @@ pre-commit = "^3"
 
 [tool.pymarkdown]
 plugins.first-line-heading.enabled = false
-plugins.line-length.code_block_line_length = 400
-plugins.line-length.line_length = 80
+plugins.line-length.line_length = 120
 
 [build-system]
 requires = ["poetry-core"]
