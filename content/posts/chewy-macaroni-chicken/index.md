@@ -18,6 +18,7 @@ I had to cook them longer than recommended by about a minute.
 They are slippery and really like to go flying.
 
 It's a very smooth pasta with watery soup, like bullion powder.
+The oil packet smelt kindof motorey.
 Low sauce emulsion, low sauce adhesion.
 
 Not actively terrible but definitely not good.
