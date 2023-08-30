@@ -1,5 +1,5 @@
 +++
-title = "Chewy Instant Macaroni Chicken"
+title = "Chewy Instant Chicken Macaroni"
 date = "2023-08-27"
 summary = "Children's food"
 [taxonomies]
