@@ -8,7 +8,7 @@ rating = 2
 manufacturer = "Kobe"
 line = "Jiwa Pagi"
 [extra]
-upc = "8995899003206"
+upc = 8995899003206
 variety = "Mie Goreng"
 +++
 

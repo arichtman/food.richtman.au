@@ -8,7 +8,7 @@ rating = 4
 manufacturer = "Wings"
 line = "Mie Sedaap"
 [extra]
-upc = "8998866203104"
+upc = 8998866203104
 variety = "Singapore Spicy Laksa"
 +++
 

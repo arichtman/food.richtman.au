@@ -8,7 +8,7 @@ rating = 2
 manufacturer = "Chewy"
 line = "Macaroni"
 [extra]
-upc = "65228300007"
+upc = 65228300007
 variety = "Ham"
 +++
 

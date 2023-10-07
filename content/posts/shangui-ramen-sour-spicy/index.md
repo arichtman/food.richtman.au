@@ -8,7 +8,7 @@ rating = 5
 manufacturer = "Shangui"
 line = "Ramen"
 [extra]
-upc = "6976093380098"
+upc = 6976093380098
 variety = "Sour & Spicy"
 +++
 

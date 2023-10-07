@@ -8,7 +8,7 @@ rating = 3
 manufacturer = "Shangui"
 line = "Ramen"
 [extra]
-upc = "6976093380111"
+upc = 6976093380111
 variety = "Miso"
 +++
 

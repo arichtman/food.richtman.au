@@ -8,7 +8,7 @@ rating = 5
 manufacturer = "Marutai"
 line = "Ramen"
 [extra]
-upc = "4902702003067"
+upc = 4902702003067
 variety = "Hokkaido Sapporo Miso"
 +++
 

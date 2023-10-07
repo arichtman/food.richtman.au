@@ -8,7 +8,7 @@ rating = 4
 manufacturer = "Kobe"
 line = "Mi Bon Cabe"
 [extra]
-upc = "8995899211540"
+upc = 8995899211540
 variety = "Ramen Pedas"
 +++
 

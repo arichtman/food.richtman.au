@@ -8,7 +8,7 @@ rating = 5
 manufacturer = "Marutai"
 line = "Ramen"
 [extra]
-upc = "4902702001230"
+upc = 4902702001230
 variety = "Nagasaki Soy Sauce"
 +++
 

@@ -8,7 +8,7 @@ rating = 2
 manufacturer = "Shangui"
 line = "Ramen"
 [extra]
-upc = "6976093380104"
+upc = 6976093380104
 variety = "Tomato"
 +++
 

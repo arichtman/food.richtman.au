@@ -9,7 +9,7 @@ rating = 5
 manufacturer = "Mayora"
 line = "Bakmi Mewah"
 [extra]
-upc = "8996001520413"
+upc = 8996001520413
 variety = "Sop Buntut"
 +++
 

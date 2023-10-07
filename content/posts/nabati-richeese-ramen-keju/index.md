@@ -8,7 +8,7 @@ rating = 3
 manufacturer = "Nabati"
 line = "Richeese"
 [extra]
-upc = "8993175555029"
+upc = 8993175555029
 variety = "Ramen Keju"
 +++
 

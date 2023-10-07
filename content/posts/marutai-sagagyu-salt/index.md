@@ -8,7 +8,7 @@ rating = 2
 manufacturer = "Marutai"
 line = "Ramen"
 [extra]
-upc = "4902702001643"
+upc = 4902702001643
 variety = "Sagagyu Salt"
 +++
 

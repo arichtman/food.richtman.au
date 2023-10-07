@@ -8,7 +8,7 @@ rating = 2
 manufacturer = "Wings"
 line = "Mie Sedaap"
 [extra]
-upc = "8998866202770"
+upc = 8998866202770
 variety = "Salero Padang"
 +++
 

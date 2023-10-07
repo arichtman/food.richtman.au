@@ -8,7 +8,7 @@ rating = 5
 manufacturer = "Human Happy"
 line = "Rice Noodle"
 [extra]
-upc = "6975026240300"
+upc = 6975026240300
 variety = "Sour and Pepper"
 +++
 

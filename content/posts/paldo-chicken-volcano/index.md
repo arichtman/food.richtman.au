@@ -8,7 +8,7 @@ rating = 3
 manufacturer = "Paldo"
 line = "Volcano"
 [extra]
-upc = "648436101276"
+upc = 648436101276
 variety = "Chicken"
 +++
 

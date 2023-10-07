@@ -8,7 +8,7 @@ rating = 4
 manufacturer = "Huy Fong"
 line = "Sriracha Noodles"
 [extra]
-upc = "07870707105436"
+upc = 07870707105436
 variety = "Extra Spicy"
 +++
 

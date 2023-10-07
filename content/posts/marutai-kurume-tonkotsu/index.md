@@ -8,7 +8,7 @@ rating = 3
 manufacturer = "Marutai"
 line = "Ramen"
 [extra]
-upc = "4902702001667"
+upc = 4902702001667
 variety = "Kurume Tonkotsu"
 +++
 

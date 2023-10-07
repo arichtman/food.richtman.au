@@ -8,7 +8,7 @@ rating = 2
 manufacturer = "Marutai"
 line = "Ramen"
 [extra]
-upc = "4902702003074"
+upc = 4902702003074
 variety = "Hokkaido Asahikawa Soy Sauce"
 +++
 

@@ -8,7 +8,7 @@ rating = 5
 manufacturer = "Marutai"
 line = "Ramen"
 [extra]
-upc = "4902702010010"
+upc = 4902702010010
 variety = "Miyazaki Spicy"
 +++
 

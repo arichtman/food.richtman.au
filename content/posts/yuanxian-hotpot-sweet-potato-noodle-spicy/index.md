@@ -8,7 +8,7 @@ rating = 2
 manufacturer = "Yuanxian"
 line = "Hotpot Sweet Potato Noodle"
 [extra]
-upc = "6970902470048"
+upc = 6970902470048
 variety = "Spicy"
 +++
 

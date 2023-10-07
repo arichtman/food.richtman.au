@@ -8,7 +8,7 @@ rating = 4
 manufacturer = "Samyang"
 line = "Buldak"
 [extra]
-upc = "8801073115125"
+upc = 8801073115125
 variety = "Yakisoba"
 +++
 

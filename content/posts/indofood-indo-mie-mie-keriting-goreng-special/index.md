@@ -8,7 +8,7 @@ rating = 3
 manufacturer = "Indofood"
 line = "Indo Mie"
 [extra]
-upc = "08968604064"
+upc = 08968604064
 variety = "Mie Keriting Goreng"
 +++
 
