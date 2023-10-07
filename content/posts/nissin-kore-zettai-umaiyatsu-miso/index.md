@@ -1,12 +1,12 @@
 +++
-title = "Nissin Deli Miso"
+title = "Nissin Ultimate Flavor Miso"
 date = 2023-10-03
 summary = "Rich, earthy, killer noodles"
 [taxonomies]
 categories = [ "Noodles" ]
 rating = 4
 manufacturer = "Nissin"
-line = "Deli"
+line = "Kore Zettai Umaiyatsu"
 [extra]
 upc = 4902105901922
 variety = "Miso"

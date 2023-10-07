@@ -1,15 +1,15 @@
 +++
-title = "Nissin Deli Backfat Soy"
+title = "Nissin Ultimate Flavor Garlic"
 date = 2023-01-22
 summary = "Disappointingly plain"
 [taxonomies]
 categories = [ "Noodles" ]
 rating = 2
 manufacturer = "Nissin"
-line = "Deli"
+line = "Kore Zettai Umaiyatsu"
 [extra]
 upc = 4902105901915
-variety = "Soy sauce"
+variety = "Garlic"
 +++
 
 Rating: 2

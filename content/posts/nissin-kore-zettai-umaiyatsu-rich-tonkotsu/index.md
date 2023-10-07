@@ -1,15 +1,15 @@
 +++
-title = "Nissin Deli Tonkotsu Soy"
+title = "Nissin Ultimate Flavor Tonkotsu"
 date = 2023-06-13
 summary = "Kissed by a greasy angel"
 [taxonomies]
 categories = [ "Noodles" ]
 rating = 5
 manufacturer = "Nissin"
-line = "Deli"
+line = "Kore Zettai Umaiyatsu"
 [extra]
 upc = 4902105901946
-variety = "Tonkotsu Soy"
+variety = "Rich Tonkotsu"
 +++
 
 Rating: 5
