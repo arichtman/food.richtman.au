@@ -8,7 +8,7 @@ rating = 3
 manufacturer = "Indofood"
 line = "Indo Mie"
 [extra]
-upc = 089686011692
+upc = 89686011692
 variety = "Soto Banjar Limau"
 +++
 
