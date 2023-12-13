@@ -4,7 +4,7 @@
     nixpkgs.url = "github:nixos/nixpkgs/nixpkgs-unstable";
 
     flake-utils = {
-      url = github:numtide/flake-utils;
+      url = "github:numtide/flake-utils";
     };
     # Use p2nix directly for the updates
     poetry2nix = {
@@ -17,11 +17,11 @@
       let
         pkgs = import nixpkgs {
             inherit system;
+            overlays = [poetry2nix.overlays.default];
         };
-        inherit (poetry2nix.legacyPackages.${system}) mkPoetryEnv;
-          poetryEnv = mkPoetryEnv {
+        poetryEnv = pkgs.poetry2nix.mkPoetryEnv {
             projectDir = ./.;
-          };
+        };
       in {
         devShells.default = with pkgs;
           mkShell {
