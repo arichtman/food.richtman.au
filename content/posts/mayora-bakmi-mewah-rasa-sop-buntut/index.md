@@ -1,5 +1,5 @@
 +++
-title = "Mayora Bakmi Mewah Sop Buntut"
+title = "Mayora Bakmi Mewah Rasa Sop Buntut"
 date = "2023-04-28"
 summary = "Now this is podracing"
 draft = false
@@ -7,7 +7,7 @@ draft = false
 categories = [ "Noodles" ]
 rating = 5
 manufacturer = "Mayora"
-line = "Bakmi Mewah"
+line = "Bakmi Mewah Rasa"
 [extra]
 upc = 8996001520413
 variety = "Sop Buntut"
