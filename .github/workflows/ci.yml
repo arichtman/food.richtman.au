@@ -5,11 +5,15 @@ on:
 
 jobs:
   check:
-    runs-on: ubuntu-22.04
+    runs-on: ${{ matrix.os }}
+    strategy:
+      matrix:
+        os: [macos-11, macos-12, macos-13-large, ubuntu-latest]
     steps:
     - uses: actions/checkout@v4
       with:
-        submodules: true
+        submodules: recursive
+        fetch-depth: 1
     - uses: DeterminateSystems/nix-installer-action@main
     - uses: DeterminateSystems/magic-nix-cache-action@main
     - uses: DeterminateSystems/flake-checker-action@main
