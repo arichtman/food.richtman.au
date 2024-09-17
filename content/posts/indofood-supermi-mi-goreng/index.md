@@ -8,7 +8,7 @@ rating = 3
 manufacturer = "Indofood"
 line = "Supermi"
 [extra]
-upc = +089686178630
+upc = "089686178630"
 variety = "Mi Goreng Original"
 +++
 
