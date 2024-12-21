@@ -21,6 +21,7 @@
         };
         poetryEnv = pkgs.poetry2nix.mkPoetryEnv {
             projectDir = ./.;
+            preferWheels = true;
         };
       in {
         devShells.default = with pkgs;
