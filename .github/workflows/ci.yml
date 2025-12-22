@@ -10,9 +10,9 @@ jobs:
     runs-on: ${{ matrix.os }}
     strategy:
       matrix:
-        os: [macos-13, macos-14, ubuntu-latest]
+        os: [macos-latest, ubuntu-latest]
     steps:
-    - uses: actions/checkout@v4
+    - uses: actions/checkout@v6
       with:
         submodules: recursive
         fetch-depth: 1
