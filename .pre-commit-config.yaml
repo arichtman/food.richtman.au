@@ -25,13 +25,13 @@ repos:
   - id: forbid-new-submodules
 
 - repo: https://github.com/jackdewinter/pymarkdown
-  rev: v0.9.33
+  rev: v0.9.34
   hooks:
   - id: pymarkdown
     additional_dependencies: [wcwidth, ruamel.yaml]
 
 - repo: https://github.com/macisamuele/language-formatters-pre-commit-hooks
-  rev: v2.15.0
+  rev: v2.16.0
   hooks:
   - id: pretty-format-yaml
     args: [--autofix, --indent, '2']
