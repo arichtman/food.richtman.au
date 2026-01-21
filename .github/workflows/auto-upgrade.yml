@@ -20,9 +20,8 @@ jobs:
       run: |
         git submodule update --remote
         nix flake update
-        nix develop --command pre-commit autoupdate
-        nix develop --command poetry update
-    - uses: peter-evans/create-pull-request@v6
+        nix develop --command prek autoupdate
+    - uses: peter-evans/create-pull-request@v8
       with:
         branch: auto-updates
         token: ${{ secrets.WRITEBACK_TOKEN }}
