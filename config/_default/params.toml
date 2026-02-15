@@ -40,7 +40,8 @@ smartTOCHideUnfocusedChildren = true
   layout = "card" # valid options: page, profile, hero, card, background, custom
   # homepageImage = "/img/iceland.jpg" # used in: hero, and card
   showRecent = true
-  showRecentItems = 10
+  showRecentItems = 999
+  showMoreLink = true
   cardView = true
   cardViewScreenWidth = true
 
