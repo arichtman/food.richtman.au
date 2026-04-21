@@ -3,7 +3,7 @@ command = "hugo"
 publish = "public"
 
 [build.environment]
-HUGO_VERSION = "0.152.2"
+HUGO_VERSION = "0.160.0"
 TZ = "Australia/Brisbane"
 
 [context.production.environment]
