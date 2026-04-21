@@ -18,7 +18,7 @@ jobs:
     - uses: DeterminateSystems/nix-installer-action@main
     - name: Update stuff
       run: |
-        git submodule update --remote
+        git submodule update --init --remote --recursive
         nix flake update
         nix develop --command prek autoupdate
     - uses: peter-evans/create-pull-request@v8
