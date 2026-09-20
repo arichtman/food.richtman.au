@@ -10,7 +10,7 @@ manufacturer = "Wandana"
 line = "Beer"
 [extra]
 upc = 724022634004
-variety = "Mac Black Smoked Macadamia Stout"
+variety = "Stout"
 +++
 
 Rating: 4
